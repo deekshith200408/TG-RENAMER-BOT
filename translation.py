@@ -3,7 +3,9 @@ from sample_config import Config
 class Translation(object):
     START_TEXT = """Hello <i><b>{}</b></i>,
 
-This is a Telegram Rename clone of <a href='https://t.me/renamer_Ns_bot'>Renamer NS BOT</a> by {}
+I AM THE RENAMR BOT 
+
+BOT CREATED BY:➠@Deeks_04_8🕶️✧.
 
 ✯✯ꜰɪʀꜱᴛ ᴊᴏɪɴ ᴛʜᴏꜱᴇ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ ✪✪
 
