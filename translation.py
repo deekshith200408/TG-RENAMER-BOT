@@ -5,6 +5,23 @@ class Translation(object):
 
 This is a Telegram Rename clone of <a href='https://t.me/renamer_Ns_bot'>Renamer NS BOT</a> by {}
 
+✯✯ꜰɪʀꜱᴛ ᴊᴏɪɴ ᴛʜᴏꜱᴇ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ ✪✪
+
+➠ᴄʜᴀɴɴᴇʟ : @UNI_MOVIES_BOX | @UM_Requests
+
+✪༺ ──•◈•─────•◈•──༻✪
+
+➠ᴄʜᴀɴɴᴇʟ: @UMR_All_Requests
+
+➠ᴄʜᴀɴɴᴇʟ: @UMR_HOLLYWOOD
+
+➠ᴄʜᴀɴɴᴇʟ: @UMR_KAN_MOVIES
+
+➠ɢʀᴏᴜᴘ : @UM_Requests
+
+✯ ━━━━━━━ ✧ ━━━━━━━━ ✯
+
+
 I Can rename ✍ with custom thumbnail and upload as video/file
 
 Type /help for more details."""
@@ -16,7 +33,7 @@ Type /help for more details."""
     UPLOAD_START_VIDEO = "Uploading as video.....📤"
     UPLOAD_START = "Uploading as File.....📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 🤷‍♂️."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Anonymous](https://t.me/Ns_AnoNymouS)'s bot.**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [DEEKSHITH](https://t.me/Deeks_04_8)'s bot.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/Ns_Bot_supporters'>Ns Bot Supporters</a>"
@@ -24,7 +41,7 @@ Type /help for more details."""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "@renamer_Ns_bot"
+    CUSTOM_CAPTION_UL_FILE = "➠ᴄʜᴀɴɴᴇʟ : @UNI_MOVIES_BOX | @UM_Requests."
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
@@ -40,11 +57,11 @@ I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
 4. Reply to that message with <code>/rename_vidoe new name.extension</code>. with custom thumbnail support.\n(uploading as Video)
 
    
-<b>Thanks to <i><a href="https://t.me/Ns_AnoNymous">Anonymous 👨‍🏫</a></i> for his source code. check /about for source code</b>
+<b>Thanks to <i>
 
 --------
 
-Support Group : @Ns_Bot_supporters"""
+Support Group : ➠ᴄʜᴀɴɴᴇʟ : @UNI_MOVIES_BOX | @UM_Requests"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "🤦‍♂️ Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.\n\n(For uploading as file).\n\nSee /help for mor information. "
     REPLY_TO_DOC_FOR_RENAME_VIDEO = "🤦‍♂️ Reply to a Telegram media to `/rename_video New Name.extension` with custom thumbnail support.\n\n(For uploading as video).\n\nSee /help for mor information."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
@@ -55,7 +72,7 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@renamer_Ns_bot</code>
+©️ <code>@UMR_RENAMER_ROBOT</code>
 Please short your file name and try again!"""
 
     About = """Hi __{}__,
@@ -64,10 +81,9 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** @Deeks_04_8➠✍[CREATER/FOUNDER](@Deeks_04_8)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [⭕✯ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ✯⭕](https://t.me/joinchat/cfs6r6VwHfo2NDk1)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Group:** [⭕JOIN OUR GROUP⭕](https://t.me/UM_Requests)"""
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
